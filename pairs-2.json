@@ -1,0 +1,344 @@
+[
+    {
+      "id": "0x1ebbf8080149ff07381afd148ba0af007f78cd3c",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0x2eddba8b949048861d2272068a94792275a51658",
+        "name": "BecoSwap Token",
+        "symbol": "BECO"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      }
+    },
+    {
+      "id": "0x1f95bd3a7d5c9df6bf56504bba948a7adf1c3e27",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xf631bdc21a77afac69b9b3e966e85d7fbcf00b1f",
+        "name": "LTD",
+        "symbol": "LTD Token"
+      }
+    },
+    {
+      "id": "0x256b8a99f69dbdbb5ac781e97f11080a336f5507",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+        "name": "DefilyToken",
+        "symbol": "DFL"
+      }
+    },
+    {
+      "id": "0x3e82f9290a28d4296d34d0c1e6e5366c4220248a",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+        "name": "DefilyToken",
+        "symbol": "DFL"
+      }
+    },
+    {
+      "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
+        "name": "sleepearn.finance",
+        "symbol": "SEN"
+      }
+    },
+    {
+      "id": "0x44f22875e07c98354dd0a8d165e7f82f7c73b02d",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xf631bdc21a77afac69b9b3e966e85d7fbcf00b1f",
+        "name": "LTD",
+        "symbol": "LTD Token"
+      }
+    },
+    {
+      "id": "0x5b60a5761047b3a9ec340941d904231be85f5c0b",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "9",
+        "id": "0x5995f16246dfa676a44b8bd7e751c1226093dcd7",
+        "name": "BossDoge",
+        "symbol": "BossDoge"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      }
+    },
+    {
+      "id": "0x687ce55e06a90fd75b6b8fd13468973eea2c6513",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "3",
+        "id": "0xf8bb30c912a46f57f2b499111cb536db13a044c3",
+        "name": "Vietnam Gold Token",
+        "symbol": "CHI"
+      }
+    },
+    {
+      "id": "0x7cd3c7afedd16a72fba66ea35b2e2b301d1b7093",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      }
+    },
+    {
+      "id": "0x8a9fc881fc8a2570f403012db123f31842242bec",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "8",
+        "id": "0xc1c319434bd861a335752b4b6993c13f139b26fa",
+        "name": "Trustpay Token",
+        "symbol": "TPH"
+      }
+    },
+    {
+      "id": "0x909eb13a77be16fd6d4a763b701b3aa82a5aff9d",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "8",
+        "id": "0x72b7181bd4a0b67ca7df2c7778d8f70455dc735b",
+        "name": "Big Digital Shares",
+        "symbol": "BDS"
+      },
+      "token1": {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+      }
+    },
+    {
+      "id": "0xa5711913ac4bf25c1056d5cf62943743414a58a4",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+      }
+    },
+    {
+      "id": "0xaa5554302cca95778eba653d6f3a852a3297f4ca",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "8",
+        "id": "0x75b9d2a0007a6866e32ac0a976fef60cca151f87",
+        "name": "VNDC International Digital Banking",
+        "symbol": "VIDB"
+      },
+      "token1": {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+      }
+    },
+    {
+      "id": "0xab40f7752babd3d302337fa1e803bfb2889b870d",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "8",
+        "id": "0xc40926e9f3935d00629d26d025c84384f79f3842",
+        "name": "WhiteHub",
+        "symbol": "WHC"
+      },
+      "token1": {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+      }
+    },
+    {
+      "id": "0xab951b7c56682040dc62fff35c8bdb8fdeca8861",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "8",
+        "id": "0x72b7181bd4a0b67ca7df2c7778d8f70455dc735b",
+        "name": "Big Digital Shares",
+        "symbol": "BDS"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      }
+    },
+    {
+      "id": "0xc2cafdf64d0e403aaf9817556bd99d479c6d4859",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "8",
+        "id": "0x75b9d2a0007a6866e32ac0a976fef60cca151f87",
+        "name": "VNDC International Digital Banking",
+        "symbol": "VIDB"
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      }
+    },
+    {
+      "id": "0xdb504f611ae0230bdc60a8f58fe89d3593eb28ce",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "name": "My DeFi Pet Token",
+        "symbol": "DPET"
+      }
+    },
+    {
+      "id": "0xe504898459c682b95b60fed35de410a74216fc92",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+      }
+    },
+    {
+      "id": "0xeaff45672ac6acde598ccd005db3f60ef1b62379",
+      "pairIdentity": {
+        "invert": true
+      },
+      "token0": {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+      },
+      "token1": {
+        "decimals": "8",
+        "id": "0xc40926e9f3935d00629d26d025c84384f79f3842",
+        "name": "WhiteHub",
+        "symbol": "WHC"
+      }
+    }
+]
