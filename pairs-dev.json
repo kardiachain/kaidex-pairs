@@ -2,7 +2,7 @@
     {
       "id": "0xd0ab1484e1b69976ab3a112fa649a28ce51ee2fc",
       "pairIdentity": {
-        "invert": false
+        "invert": true
       },
       "token0": {
         "decimals": "18",
