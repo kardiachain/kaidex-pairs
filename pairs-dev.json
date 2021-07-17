@@ -1,0 +1,20 @@
+[
+    {
+      "id": "0xd0ab1484e1b69976ab3a112fa649a28ce51ee2fc",
+      "pairIdentity": {
+        "invert": false
+      },
+      "token0": {
+        "decimals": "18",
+        "id": "0x02655eEF130e5F37F8b648BD9c8D10aA2e6bf698",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xFD2286FeA202A1750F715743447fBA1aBad8329F",
+        "name": "BNB",
+        "symbol": "BNB"
+      }
+    }
+]
