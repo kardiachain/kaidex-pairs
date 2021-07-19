@@ -340,5 +340,23 @@
       "name": "WhiteHub",
       "symbol": "WHC"
     }
+  },
+  {
+    "id": "0xd94e4431061ca7fc69fcb75353204285174ad185",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xc1c319434bd861a335752b4b6993c13f139b26fa",
+      "name": "Trustpay Token",
+      "symbol": "TPH"
+    }
   }
 ]
