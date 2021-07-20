@@ -358,5 +358,23 @@
       "name": "Trustpay Token",
       "symbol": "TPH"
     }
+  },
+  {
+    "id": "0xed2d01c124a562160a87cacf59092b6bf7083d09",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xb3b39589cf5ecf173e5191cdef3563f7677e3703",
+      "name": "Bami Token",
+      "symbol": "BAMI"
+    }
   }
 ]
