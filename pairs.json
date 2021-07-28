@@ -412,5 +412,23 @@
       "name": "Bami Token",
       "symbol": "BAMI"
     }
+  },
+  {
+    "id": "0x3737a7362a6d5bdd39573f3844ca704b61a8a06e",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "8",
+      "id": "0x72b7181bd4a0b67ca7df2c7778d8f70455dc735b",
+      "name": "Big Digital Shares",
+      "symbol": "BDS"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
   }
 ]
