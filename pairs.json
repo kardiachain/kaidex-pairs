@@ -430,5 +430,23 @@
       "name": "KUSD-T",
       "symbol": "KUSD-T"
     }
+  },
+  {
+    "id": "0x00e481cc833326a0640bb83af92e53e278d8a7be",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xcc0595e6a76da207ccadf8dc7cf548af0ff8e22b",
+      "name": "VNDT",
+      "symbol": "VNDT"
+    }
   }
 ]
