@@ -448,5 +448,23 @@
       "name": "VNDT",
       "symbol": "VNDT"
     }
+  },
+  {
+    "id": "0xd91e71e3486900eaa41fa37bdd2a161bcdf0ab7e",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598",
+      "name": "Kephi Token",
+      "symbol": "KPHI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
   }
 ]
