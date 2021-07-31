@@ -466,5 +466,23 @@
       "name": "Wrapped KAI",
       "symbol": "WKAI"
     }
+  },
+  {
+    "id": "0x5d6724f4ac40aeb1a47b9ccfe293363d100d4e5f",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x32a6bd9800276be19050bd97459a7a36b26bd899",
+      "name": "Lucky Property Development Invest Token",
+      "symbol": "LPDi"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
   }
 ]
