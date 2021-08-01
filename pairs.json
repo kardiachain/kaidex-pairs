@@ -1,5 +1,41 @@
 [
   {
+    "id": "0x7cd3c7afedd16a72fba66ea35b2e2b301d1b7093",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
+    "id": "0xdb504f611ae0230bdc60a8f58fe89d3593eb28ce",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "name": "My DeFi Pet Token",
+      "symbol": "DPET"
+    }
+  },
+  {
     "id": "0x1ebbf8080149ff07381afd148ba0af007f78cd3c",
     "pairIdentity": {
       "invert": false
@@ -9,6 +45,60 @@
       "id": "0x2eddba8b949048861d2272068a94792275a51658",
       "name": "BecoSwap Token",
       "symbol": "BECO"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
+    "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
+      "name": "sleepearn.finance",
+      "symbol": "SEN"
+    }
+  },
+  {
+    "id": "0x256b8a99f69dbdbb5ac781e97f11080a336f5507",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+      "name": "DefilyToken",
+      "symbol": "DFL"
+    }
+  },
+  {
+    "id": "0xd91e71e3486900eaa41fa37bdd2a161bcdf0ab7e",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598",
+      "name": "Kephi Token",
+      "symbol": "KPHI"
     },
     "token1": {
       "decimals": "18",
@@ -36,24 +126,6 @@
     }
   },
   {
-    "id": "0x256b8a99f69dbdbb5ac781e97f11080a336f5507",
-    "pairIdentity": {
-      "invert": true
-    },
-    "token0": {
-      "decimals": "18",
-      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
-      "name": "Wrapped KAI",
-      "symbol": "WKAI"
-    },
-    "token1": {
-      "decimals": "18",
-      "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
-      "name": "DefilyToken",
-      "symbol": "DFL"
-    }
-  },
-  {
     "id": "0x3e82f9290a28d4296d34d0c1e6e5366c4220248a",
     "pairIdentity": {
       "invert": true
@@ -69,24 +141,6 @@
       "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
       "name": "DefilyToken",
       "symbol": "DFL"
-    }
-  },
-  {
-    "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
-    "pairIdentity": {
-      "invert": true
-    },
-    "token0": {
-      "decimals": "18",
-      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
-      "name": "Wrapped KAI",
-      "symbol": "WKAI"
-    },
-    "token1": {
-      "decimals": "18",
-      "id": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
-      "name": "sleepearn.finance",
-      "symbol": "SEN"
     }
   },
   {
@@ -141,24 +195,6 @@
       "id": "0xf8bb30c912a46f57f2b499111cb536db13a044c3",
       "name": "Vietnam Gold Token",
       "symbol": "CHI"
-    }
-  },
-  {
-    "id": "0x7cd3c7afedd16a72fba66ea35b2e2b301d1b7093",
-    "pairIdentity": {
-      "invert": true
-    },
-    "token0": {
-      "decimals": "6",
-      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
-      "name": "KUSD-T",
-      "symbol": "KUSD-T"
-    },
-    "token1": {
-      "decimals": "18",
-      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
-      "name": "Wrapped KAI",
-      "symbol": "WKAI"
     }
   },
   {
@@ -285,24 +321,6 @@
       "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
       "name": "KUSD-T",
       "symbol": "KUSD-T"
-    }
-  },
-  {
-    "id": "0xdb504f611ae0230bdc60a8f58fe89d3593eb28ce",
-    "pairIdentity": {
-      "invert": true
-    },
-    "token0": {
-      "decimals": "18",
-      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
-      "name": "Wrapped KAI",
-      "symbol": "WKAI"
-    },
-    "token1": {
-      "decimals": "18",
-      "id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
-      "name": "My DeFi Pet Token",
-      "symbol": "DPET"
     }
   },
   {
@@ -447,24 +465,6 @@
       "id": "0xcc0595e6a76da207ccadf8dc7cf548af0ff8e22b",
       "name": "VNDT",
       "symbol": "VNDT"
-    }
-  },
-  {
-    "id": "0xd91e71e3486900eaa41fa37bdd2a161bcdf0ab7e",
-    "pairIdentity": {
-      "invert": false
-    },
-    "token0": {
-      "decimals": "18",
-      "id": "0x6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598",
-      "name": "Kephi Token",
-      "symbol": "KPHI"
-    },
-    "token1": {
-      "decimals": "18",
-      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
-      "name": "Wrapped KAI",
-      "symbol": "WKAI"
     }
   },
   {
