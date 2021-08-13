@@ -51,7 +51,8 @@
       "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
       "name": "Wrapped KAI",
       "symbol": "WKAI"
-    }
+    },
+    "supportLimit": true
   },
   {
     "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
