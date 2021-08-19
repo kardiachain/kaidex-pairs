@@ -71,7 +71,8 @@
       "id": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
       "name": "sleepearn.finance",
       "symbol": "SEN"
-    }
+    },
+    "supportLimit": true
   },
   {
     "id": "0x256b8a99f69dbdbb5ac781e97f11080a336f5507",
@@ -89,7 +90,8 @@
       "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
       "name": "DefilyToken",
       "symbol": "DFL"
-    }
+    },
+    "supportLimit": true
   },
   {
     "id": "0xd91e71e3486900eaa41fa37bdd2a161bcdf0ab7e",
@@ -251,7 +253,8 @@
       "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
       "name": "VNDC",
       "symbol": "VNDC"
-    }
+    },
+    "supportLimit": true
   },
   {
     "id": "0xaa5554302cca95778eba653d6f3a852a3297f4ca",
