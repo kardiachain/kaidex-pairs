@@ -507,5 +507,23 @@
       "name": "Wrapped KAI",
       "symbol": "WKAI"
     }
+  },
+  {
+    "id": "0x05d6ae694d44b4005acbf18a701ec7c84cdb82df",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x274064d87952e4782150396153b50b1ab3a81ca2",
+      "name": "Chat Token",
+      "symbol": "CHAT"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
   }
 ]
