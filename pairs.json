@@ -24,7 +24,7 @@
       "invert": true
     },
     "token0": {
-      "decimals": "6",
+      "decimals": "18",
       "id": "0x1540020a94aA8bc189aA97639Da213a4ca49d9a7",
       "name": "Ether",
       "symbol": "ETH"
@@ -44,7 +44,7 @@
     "token0": {
       "decimals": "6",
       "id": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
-      "name": "Tether",
+      "name": "Tether USD",
       "symbol": "USDT"
     },
     "token1": {
