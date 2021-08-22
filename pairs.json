@@ -37,6 +37,24 @@
     },
   },
   {
+    "id": "0x8a5c572ce422da947e2d04a2d8339a2ea7141de9",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
+      "name": "Tether",
+      "symbol": "USDT"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+  },
+  {
     "id": "0xdb504f611ae0230bdc60a8f58fe89d3593eb28ce",
     "pairIdentity": {
       "invert": true
