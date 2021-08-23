@@ -561,5 +561,41 @@
       "name": "KUSD-T",
       "symbol": "KUSD-T"
     }
+  },
+  {
+    "id": "0x5d374eff61e799470b88da02ab73899e60246fa4",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x865fa6a9dee299de618a06729dc9e5f7d02055e3",
+      "name": "GetDone Token",
+      "symbol": "GDT"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
+    "id": "0xc56577c105e76463f32239c8222fbbfd45383afa",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x865fa6a9dee299de618a06729dc9e5f7d02055e3",
+      "name": "GetDone Token",
+      "symbol": "GDT"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
   }
 ]
