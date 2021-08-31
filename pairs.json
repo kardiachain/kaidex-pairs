@@ -597,5 +597,23 @@
       "name": "KUSD-T",
       "symbol": "KUSD-T"
     }
-  }
+  },
+  {
+        "id": "0x71b073f3b307cc07e5450b5275cdc0bafc668f71",
+        "pairIdentity": {
+          "invert": false
+        },
+        "token0": {
+          "decimals": "18",
+          "id": "0x5c5058de24497359ff64f7318f5c2b5581ff6b05",
+          "name": "Kripto Galaxy Battle",
+          "symbol": "KABA"
+        },
+        "token1": {
+          "decimals": "18",
+          "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+          "name": "Wrapped KAI",
+          "symbol": "WKAI"
+        }
+    }
 ]
