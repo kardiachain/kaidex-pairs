@@ -1,5 +1,23 @@
 [
   {
+    "id": "0x98a64f65d61ab8b1426b0583f041ef473be5b836",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xf0051fd4758147f1749d1696c9266d047b4c43fa",
+      "name": "Thetan Gem",
+      "symbol": "THG"
+    }
+  },
+  {
     "id": "0x7cd3c7afedd16a72fba66ea35b2e2b301d1b7093",
     "pairIdentity": {
       "invert": true
