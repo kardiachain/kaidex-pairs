@@ -128,6 +128,24 @@
     "supportLimit": true
   },
   {
+    "id": "0x2c6ac072c8d14dd458b778941a910ca032712b8a",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x2eddba8b949048861d2272068a94792275a51658",
+      "name": "BecoSwap Token",
+      "symbol": "BECO"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    }
+  },
+  {
     "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
     "pairIdentity": {
       "invert": true
