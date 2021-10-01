@@ -1,0 +1,164 @@
+[
+    {
+        "decimals": "18",
+        "id": "0xb3b39589cf5ecf173e5191cdef3563f7677e3703",
+        "name": "Bami Token",
+        "symbol": "BAMI"
+    },
+    {
+        "decimals": "18",
+        "id": "0xc0884cce945fcf7f3ae4471b5a16d83065d35c31",
+        "name": "BamiToken",
+        "symbol": "BAMI"
+    },
+    {
+        "decimals": "18",
+        "id": "0x2eddba8b949048861d2272068a94792275a51658",
+        "name": "BecoSwap Token",
+        "symbol": "BECO"
+    },
+    {
+        "decimals": "8",
+        "id": "0x72b7181bd4a0b67ca7df2c7778d8f70455dc735b",
+        "name": "Big Digital Shares",
+        "symbol": "BDS"
+    },
+    {
+        "decimals": "9",
+        "id": "0x5995f16246dfa676a44b8bd7e751c1226093dcd7",
+        "name": "BossDoge",
+        "symbol": "BossDoge"
+    },
+    {
+        "decimals": "18",
+        "id": "0x274064d87952e4782150396153b50b1ab3a81ca2",
+        "name": "Chat Token",
+        "symbol": "CHAT"
+    },
+    {
+        "decimals": "18",
+        "id": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+        "name": "DefilyToken",
+        "symbol": "DFL"
+    },
+    {
+        "decimals": "18",
+        "id": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
+        "name": "Ether",
+        "symbol": "ETH"
+    },
+    {
+        "decimals": "18",
+        "id": "0x865fa6a9dee299de618a06729dc9e5f7d02055e3",
+        "name": "GetDone Token",
+        "symbol": "GDT"
+    },
+    {
+        "decimals": "18",
+        "id": "0x6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598",
+        "name": "Kephi Token",
+        "symbol": "KPHI"
+    },
+    {
+        "decimals": "18",
+        "id": "0x5c5058de24497359ff64f7318f5c2b5581ff6b05",
+        "name": "Kripto Galaxy Battle",
+        "symbol": "KABA"
+    },
+    {
+        "decimals": "6",
+        "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+        "name": "KUSD-T",
+        "symbol": "KUSD-T"
+    },
+    {
+        "decimals": "18",
+        "id": "0xf631bdc21a77afac69b9b3e966e85d7fbcf00b1f",
+        "name": "LTD",
+        "symbol": "LTD Token"
+    },
+    {
+        "decimals": "18",
+        "id": "0x32a6bd9800276be19050bd97459a7a36b26bd899",
+        "name": "Lucky Property Development Invest Token",
+        "symbol": "LPDi"
+    },
+    {
+        "decimals": "18",
+        "id": "0xbfb1398f4755e861620d25a1df6bb8ff25252377",
+        "name": "MOONKA Token",
+        "symbol": "MKA"
+    },
+    {
+        "decimals": "18",
+        "id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "name": "My DeFi Pet Token",
+        "symbol": "DPET"
+    },
+    {
+        "decimals": "18",
+        "id": "0xa43b455f935a7f4184b5b8aa345e22dba3bbb286",
+        "name": "Nami Corporation",
+        "symbol": "NAMI"
+    },
+    {
+        "decimals": "18",
+        "id": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
+        "name": "sleepearn.finance",
+        "symbol": "SEN"
+    },
+    {
+        "decimals": "6",
+        "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+        "name": "Tether USD",
+        "symbol": "USDT"
+    },
+    {
+        "decimals": "18",
+        "id": "0xf0051fd4758147f1749d1696c9266d047b4c43fa",
+        "name": "Thetan Gem",
+        "symbol": "THG"
+    },
+    {
+        "decimals": "8",
+        "id": "0xc1c319434bd861a335752b4b6993c13f139b26fa",
+        "name": "Trustpay Token",
+        "symbol": "TPH"
+    },
+    {
+        "decimals": "3",
+        "id": "0xf8bb30c912a46f57f2b499111cb536db13a044c3",
+        "name": "Vietnam Gold Token",
+        "symbol": "CHI"
+    },
+    {
+        "decimals": "0",
+        "id": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+        "name": "VNDC",
+        "symbol": "VNDC"
+    },
+    {
+        "decimals": "8",
+        "id": "0x75b9d2a0007a6866e32ac0a976fef60cca151f87",
+        "name": "VNDC International Digital Banking",
+        "symbol": "VIDB"
+    },
+    {
+        "decimals": "8",
+        "id": "0xcc0595e6a76da207ccadf8dc7cf548af0ff8e22b",
+        "name": "VNDT",
+        "symbol": "VNDT"
+    },
+    {
+        "decimals": "8",
+        "id": "0xc40926e9f3935d00629d26d025c84384f79f3842",
+        "name": "WhiteHub",
+        "symbol": "WHC"
+    },
+    {
+        "decimals": "18",
+        "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+        "name": "Wrapped KAI",
+        "symbol": "WKAI"
+    }
+]

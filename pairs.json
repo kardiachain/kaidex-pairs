@@ -292,6 +292,24 @@
     }
   },
   {
+    "id": "0xa0535d0c6989ea1e2d126bdd333912186aad68a1",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x7221b169ad5e8415753ebbc583924519afc96b26",
+      "name": "KShark",
+      "symbol": "KSC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
+  },
+  {
     "id": "0x8a9fc881fc8a2570f403012db123f31842242bec",
     "pairIdentity": {
       "invert": true
