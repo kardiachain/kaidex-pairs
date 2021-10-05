@@ -146,6 +146,24 @@
     }
   },
   {
+    "id": "0x8623be398ee4db3d89e4d1868f2e421b4061b3e6",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x148de93957ed77f8d5546323b1eda0bf06eb52f3",
+      "name": "HanaGold Token",
+      "symbol": "HNG"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
+  },
+  {
     "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
     "pairIdentity": {
       "invert": true
