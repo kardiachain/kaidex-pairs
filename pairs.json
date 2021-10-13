@@ -705,5 +705,23 @@
       "name": "Wrapped KAI",
       "symbol": "WKAI"
     }
+  },
+  {
+    "id": "0x348e2b79bf8b51ed147834eb8f1ba9e605f2cdfe",
+    "pairIdentity": {
+      "invert": true
+    },    
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xd8347e9078ca7f41ad017fd74b9b6396e6068d9b",
+      "name": "DareNFT",
+      "symbol": "DNFT"
+    }
   }
 ]
