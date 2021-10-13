@@ -723,5 +723,24 @@
       "name": "DareNFT",
       "symbol": "DNFT"
     }
+  },
+  
+  {
+    "id": "0x45ef3a6e958016d90929ef8849ac0a2790414ba3",
+    "pairIdentity": {
+      "invert": true
+    },    
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xff706ec9af6c5c89059479c24068bcd8aae8e1fa",
+      "name": "Moniwar",
+      "symbol": "MOWA"
+    }
   }
 ]
