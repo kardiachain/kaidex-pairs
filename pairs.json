@@ -128,6 +128,42 @@
     "supportLimit": true
   },
   {
+    "id": "0x2c6ac072c8d14dd458b778941a910ca032712b8a",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x2eddba8b949048861d2272068a94792275a51658",
+      "name": "BecoSwap Token",
+      "symbol": "BECO"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x8623be398ee4db3d89e4d1868f2e421b4061b3e6",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x148de93957ed77f8d5546323b1eda0bf06eb52f3",
+      "name": "HanaGold Token",
+      "symbol": "HNG"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    }
+  },
+  {
     "id": "0x43951c209003a70dca94c2a5b09342c9c84e58ac",
     "pairIdentity": {
       "invert": true
@@ -271,6 +307,24 @@
       "id": "0xf8bb30c912a46f57f2b499111cb536db13a044c3",
       "name": "Vietnam Gold Token",
       "symbol": "CHI"
+    }
+  },
+  {
+    "id": "0xa0535d0c6989ea1e2d126bdd333912186aad68a1",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x7221b169ad5e8415753ebbc583924519afc96b26",
+      "name": "KShark",
+      "symbol": "KSC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
     }
   },
   {
@@ -650,6 +704,43 @@
       "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
       "name": "Wrapped KAI",
       "symbol": "WKAI"
+    }
+  },
+  {
+    "id": "0x348e2b79bf8b51ed147834eb8f1ba9e605f2cdfe",
+    "pairIdentity": {
+      "invert": true
+    },    
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xd8347e9078ca7f41ad017fd74b9b6396e6068d9b",
+      "name": "DareNFT",
+      "symbol": "DNFT"
+    }
+  },
+  
+  {
+    "id": "0x45ef3a6e958016d90929ef8849ac0a2790414ba3",
+    "pairIdentity": {
+      "invert": true
+    },    
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xff706ec9af6c5c89059479c24068bcd8aae8e1fa",
+      "name": "Moniwar",
+      "symbol": "MOWA"
     }
   }
 ]
