@@ -1,0 +1,249 @@
+{
+    "name": "Kaidex Default List",
+    "timestamp": "2021-05-06T00:00:00Z",
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "kardiachain",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "WKAI Token",
+            "symbol": "WKAI",
+            "address": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+        },
+        {
+            "name": "Beco Token",
+            "symbol": "Beco",
+            "address": "0x2Eddba8b949048861d2272068A94792275A51658",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/087d48e00e3cd1c39c9933567b1975663ddfe80e.png"
+        },
+        {
+            "name": "Thetan GEM",
+            "symbol": "THG",
+            "address": "0xF0051fd4758147F1749D1696C9266d047B4c43Fa",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/F0051fd4758147F1749D1696C9266d047B4c43Fa.png"
+        },
+        {
+            "name": "KUSD-T",
+            "symbol": "KUSD-T",
+            "address": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/92364ec610efa050d296f1eeb131f2139fb8810e.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
+            "name": "Ether",
+            "symbol": "ETH",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/1540020a94aa8bc189aa97639da213a4ca49d9a7.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x274064d87952e4782150396153b50b1ab3a81ca2",
+            "name": "Chat Token",
+            "symbol": "CHAT",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/274064d87952e4782150396153b50b1ab3a81ca2.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x32a6bd9800276be19050bd97459a7a36b26bd899",
+            "name": "Lucky Property Development Invest Token",
+            "symbol": "LPDi",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32a6bd9800276be19050bd97459a7a36b26bd899.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 6,
+            "address": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/551a5dcac57c66aa010940c2dcff5da9c53aa53b.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 9,
+            "address": "0x5995f16246dfa676a44b8bd7e751c1226093dcd7",
+            "name": "BossDoge",
+            "symbol": "BossDoge",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5995f16246dfa676a44b8bd7e751c1226093dcd7.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x5c5058de24497359ff64f7318f5c2b5581ff6b05",
+            "name": "Kripto Galaxy Battle",
+            "symbol": "KABA",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5c5058de24497359ff64f7318f5c2b5581ff6b05.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598",
+            "name": "Kephi Token",
+            "symbol": "KPHI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6cd689defca80f9f2cbed9d0c6f3b2cf4abc4598.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x7221b169ad5e8415753ebbc583924519afc96b26",
+            "name": "KShark",
+            "symbol": "KSC",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7221b169ad5e8415753ebbc583924519afc96b26.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0x72b7181bd4a0b67ca7df2c7778d8f70455dc735b",
+            "name": "Big Digital Shares",
+            "symbol": "BDS",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/72b7181bd4a0b67ca7df2c7778d8f70455dc735b.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0x75b9d2a0007a6866e32ac0a976fef60cca151f87",
+            "name": "VNDC International Digital Banking",
+            "symbol": "VIDB",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/75b9d2a0007a6866e32ac0a976fef60cca151f87.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x865fa6a9dee299de618a06729dc9e5f7d02055e3",
+            "name": "GetDone Token",
+            "symbol": "GDT",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/865fa6a9dee299de618a06729dc9e5f7d02055e3.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xa43b455f935a7f4184b5b8aa345e22dba3bbb286",
+            "name": "Nami Corporation",
+            "symbol": "NAMI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/a43b455f935a7f4184b5b8aa345e22dba3bbb286.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xb697231730c004110a86f51bff4b8dd085c0cb28",
+            "name": "sleepearn.finance",
+            "symbol": "SEN",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/b697231730c004110a86f51bff4b8dd085c0cb28.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xbfb1398f4755e861620d25a1df6bb8ff25252377",
+            "name": "MOONKA Token",
+            "symbol": "MKA",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/bfb1398f4755e861620d25a1df6bb8ff25252377.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xc0884cce945fcf7f3ae4471b5a16d83065d35c31",
+            "name": "BamiToken",
+            "symbol": "BAMI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c0884cce945fcf7f3ae4471b5a16d83065d35c31.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0xc1c319434bd861a335752b4b6993c13f139b26fa",
+            "name": "Trustpay Token",
+            "symbol": "TPH",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c1c319434bd861a335752b4b6993c13f139b26fa.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0xc40926e9f3935d00629d26d025c84384f79f3842",
+            "name": "WhiteHub",
+            "symbol": "WHC",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c40926e9f3935d00629d26d025c84384f79f3842.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0xcc0595e6a76da207ccadf8dc7cf548af0ff8e22b",
+            "name": "VNDT",
+            "symbol": "VNDT",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/cc0595e6a76da207ccadf8dc7cf548af0ff8e22b.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+            "name": "DefilyToken",
+            "symbol": "DFL",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d675ff2b0ff139e14f86d87b7a6049ca7c66d76e.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 0,
+            "address": "0xeff34b63f55200a9d635b8abbbfcc719b4977864",
+            "name": "VNDC",
+            "symbol": "VNDC",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/eff34b63f55200a9d635b8abbbfcc719b4977864.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xf631bdc21a77afac69b9b3e966e85d7fbcf00b1f",
+            "name": "LTD",
+            "symbol": "LTD Token",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f631bdc21a77afac69b9b3e966e85d7fbcf00b1f.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 3,
+            "address": "0xf8bb30c912a46f57f2b499111cb536db13a044c3",
+            "name": "Vietnam Gold Token",
+            "symbol": "CHI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/f8bb30c912a46f57f2b499111cb536db13a044c3.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+            "name": "My DeFi Pet Token",
+            "symbol": "DPET",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/fb62ae373aca027177d1c18ee0862817f9080d08.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+            "name": "DareNFT",
+            "symbol": "DNFT",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa",
+            "name": "Moniwar",
+            "symbol": "MOWA",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
+        }
+    ]
+}
