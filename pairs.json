@@ -274,6 +274,24 @@
     }
   },
   {
+    "id": "0xc1e7a0ed52e8ee5b25951c000df105a4c3725ec9",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x7664e4bf5611352088dc3a58e4bce2c92badf43c",
+      "name": "FAM Token",
+      "symbol": "FAM"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
     "id": "0xa0535d0c6989ea1e2d126bdd333912186aad68a1",
     "pairIdentity": {
       "invert": false
