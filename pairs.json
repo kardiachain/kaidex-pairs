@@ -671,6 +671,24 @@
     }
   },
   {
+    "id": "0x171e80051fa4fafc893174e497902b95749921b7",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xa0808d4867a6da3f9b617d513e1deb7af68b8f6d",
+      "name": "Satoshi",
+      "symbol": "SATOSHI"
+    }
+  },
+  {
     "id": "0x5d374eff61e799470b88da02ab73899e60246fa4",
     "pairIdentity": {
       "invert": false
