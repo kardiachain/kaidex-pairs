@@ -220,6 +220,24 @@
     }
   },
   {
+    "id": "0x24d806bab021fb6b513c78188f04e72827000cc7",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xff40318cda551bf168c7cc8b9dc004faa07345ac",
+      "name": "RICE",
+      "symbol": "RICE"
+    }
+  },
+  {
     "id": "0x1f95bd3a7d5c9df6bf56504bba948a7adf1c3e27",
     "pairIdentity": {
       "invert": true
