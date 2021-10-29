@@ -244,6 +244,22 @@
             "name": "Moniwar",
             "symbol": "MOWA",
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x7664e4bF5611352088dc3a58e4bCe2C92BADf43C",
+            "name": "FAM Token",
+            "symbol": "FAM",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/7664e4bF5611352088dc3a58e4bCe2C92BADf43C.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xff40318cdA551BF168c7cC8B9DC004FaA07345AC",
+            "name": "RICE",
+            "symbol": "RICE",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff40318cdA551BF168c7cC8B9DC004FaA07345AC.png"
         }
     ]
 }
