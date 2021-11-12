@@ -796,5 +796,24 @@
       "name": "Moniwar",
       "symbol": "MOWA"
     }
+  },
+  
+  {
+    "id": "0xc14ea2e9550083c7e10781bee1feed870d4d9c73",
+    "pairIdentity": {
+      "invert": false
+    },    
+    "token0": {
+      "decimals": "18",
+      "id": "0x32063cd7e2db807f0361235c01c10b4f8fe64f8e",
+      "name": "COGI Coin",
+      "symbol": "COGI"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    }
   }
 ]
