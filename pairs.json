@@ -815,5 +815,24 @@
       "name": "Tether USD",
       "symbol": "USDT"
     }
-  }
+  }, 
+
+  {
+    "id": "0x50949ba102bb00783a6a2da734ab8148bca5cfee",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x6ef238e9e8cd2a96740897761c18894fc086b9d0",
+      "name": "Mytheria",
+      "symbol": "MYRA"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  }  
 ]
