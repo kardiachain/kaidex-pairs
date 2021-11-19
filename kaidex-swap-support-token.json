@@ -260,6 +260,38 @@
             "name": "RICE",
             "symbol": "RICE",
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff40318cdA551BF168c7cC8B9DC004FaA07345AC.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+            "name": "Mytheria",
+            "symbol": "MYRA",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x32063CD7E2dB807f0361235C01c10b4f8fE64f8e",
+            "name": "COGI Coin",
+            "symbol": "COGI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/32063CD7E2dB807f0361235C01c10b4f8fE64f8e.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 8,
+            "address": "0xa0808D4867A6dA3f9b617d513e1dEb7af68B8F6D",
+            "name": "Satoshi",
+            "symbol": "SATOSHI",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/a0808D4867A6dA3f9b617d513e1dEb7af68B8F6D.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 6,
+            "address": "0x148De93957ED77f8D5546323b1EdA0Bf06eB52f3",
+            "name": "HanaGold Token",
+            "symbol": "HNG",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/148De93957ED77f8D5546323b1EdA0Bf06eB52f3.png"
         }
     ]
 }
