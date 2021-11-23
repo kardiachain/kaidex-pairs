@@ -36,6 +36,24 @@
     }
   },
   {
+    "id": "0x7cb4efa8a2415715c44426c2f3beae17d1b0fb3b",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x10c2ed4dcb8e81a5ce45d985f907364e1bc3e4e1",
+      "name": "REAL REALM",
+      "symbol": "REAL"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    }
+  },
+  {
     "id": "0x7cd3c7afedd16a72fba66ea35b2e2b301d1b7093",
     "pairIdentity": {
       "invert": true
