@@ -38,6 +38,14 @@
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/F0051fd4758147F1749D1696C9266d047B4c43Fa.png"
         },
         {
+            "name": "REAL REALM",
+            "symbol": "REAL",
+            "address": "0x10c2ed4dcb8e81a5ce45d985f907364e1bc3e4e1",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1.png"
+        },
+        {
             "name": "KUSD-T",
             "symbol": "KUSD-T",
             "address": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
