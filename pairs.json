@@ -146,6 +146,24 @@
     "supportLimit": true
   },
   {
+    "id": "0x3efb8ac1d1b289be515a7d44ae643ac156f57a9f",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x5ffd7a138422cbbcfb53908ad51f656d7c6c640f",
+      "name": "Info Token",
+      "symbol": "INFO"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
     "id": "0x2c6ac072c8d14dd458b778941a910ca032712b8a",
     "pairIdentity": {
       "invert": false
