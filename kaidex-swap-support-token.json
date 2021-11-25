@@ -32,7 +32,7 @@
         {   
             "name": "Info Token",
             "symbol": "INFO",
-            "addess": "0x5FFD7a138422cBbcfB53908AD51F656D7C6c640F",
+            "address": "0x5FFD7a138422cBbcfB53908AD51F656D7C6c640F",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/5FFD7a138422cBbcfB53908AD51F656D7C6c640F.png"
