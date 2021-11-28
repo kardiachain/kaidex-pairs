@@ -54,6 +54,14 @@
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1.png"
         },
         {
+            "name": "HeroesTD",
+            "symbol": "HTD",
+            "address": "0xe58ea819a98c87ab1a763133a234c3954bb15901",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/e58eA819A98c87ab1A763133a234C3954BB15901.png"
+        },
+        {
             "name": "KUSD-T",
             "symbol": "KUSD-T",
             "address": "0x92364ec610efa050d296f1eeb131f2139fb8810e",

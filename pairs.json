@@ -73,6 +73,24 @@
     "supportLimit": true
   },
   {
+    "id": "0xb586d8e991a86e7c002e68303510691e601c6085",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+      "name": "KUSD-T",
+      "symbol": "KUSD-T"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xe58ea819a98c87ab1a763133a234c3954bb15901",
+      "name": "HeroesTD",
+      "symbol": "HTD"
+    }
+  },
+  {
     "id": "0xee82321081316da35a38c17b7c7596506d5ef9cf",
     "pairIdentity": {
       "invert": true
