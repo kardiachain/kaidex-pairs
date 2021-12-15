@@ -316,6 +316,14 @@
             "name": "HanaGold Token",
             "symbol": "HNG",
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/148De93957ED77f8D5546323b1EdA0Bf06eB52f3.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0x9fEf6766ecf9e105b2753f7f8968Dc8293A69460",
+            "name": "DeHR",
+            "symbol": "DHR",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/9fEf6766ecf9e105b2753f7f8968Dc8293A69460.png"
         }
     ]
 }
