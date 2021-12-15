@@ -1,5 +1,23 @@
 [
   {
+    "id": "0x6a0886c23b869b397c4717464e9b9c039c888182",
+    "pairIdentity": {
+      "invert": false
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0x9fef6766ecf9e105b2753f7f8968dc8293a69460",
+      "name": "DeHR",
+      "symbol": "DHR"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    }
+  },
+  {
     "id": "0x42bfeeead02e715c554bd981093c983ecf075fe1",
     "pairIdentity": {
       "invert": true
