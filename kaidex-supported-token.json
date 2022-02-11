@@ -160,5 +160,11 @@
         "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
         "name": "Wrapped KAI",
         "symbol": "WKAI"
+    },
+    {
+        "decimals": "18",
+        "id": "0x827d24bb2aad813fe6f49b798f44cce4c48bd478",
+        "name": "Fado Go",
+        "symbol": "FADO"
     }
 ]
