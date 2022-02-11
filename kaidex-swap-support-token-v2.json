@@ -324,6 +324,14 @@
             "name": "DeHR",
             "symbol": "DHR",
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/9fEf6766ecf9e105b2753f7f8968Dc8293A69460.png"
+        },
+        {
+            "chainId": 24,
+            "decimals": 18,
+            "address": "0x827d24bb2aad813fe6f49b798f44cce4c48bd478",
+            "name": "Fado Go",
+            "symbol": "FADO",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/827d24bB2aad813fE6F49b798F44cCe4c48Bd478.png"
         }
     ]
 }
