@@ -1,5 +1,23 @@
 [
   {
+    "id": "0x3a49ae6c81be7508dad7c80ee4495b4402dad278",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "6",
+      "id": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0x72de7ca363d38d42d98be0b73607e7248c1e978c",
+      "name": "SSC",
+      "symbol": "SSC"
+    }
+  },
+  {
     "id": "0x576f8e49a85868b9f1d4e898abe4870f13279313",
     "pairIdentity": {
       "invert": true
