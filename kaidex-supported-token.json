@@ -166,5 +166,11 @@
         "id": "0x827d24bb2aad813fe6f49b798f44cce4c48bd478",
         "name": "Fado Go",
         "symbol": "FADO"
+    },
+    {
+        "decimals": "18",
+        "id": "0x72de7ca363d38d42d98be0b73607e7248c1e978c",
+        "name": "SSC",
+        "symbol": "SSC"
     }
 ]
