@@ -1,5 +1,23 @@
 [
   {
+    "id": "0xe9041417e366464b46ea1a8a1dcea9d0cbd22338",
+    "pairIdentity": {
+      "invert": true
+    },
+    "token0": {
+      "decimals": "18",
+      "id": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "name": "Wrapped KAI",
+      "symbol": "WKAI"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc8e2747916bedcf91c17ab13f2e14e67f6abe0db",
+      "name": "ArkRivals",
+      "symbol": "ARKN"
+    }
+  },
+  {
     "id": "0x3a49ae6c81be7508dad7c80ee4495b4402dad278",
     "pairIdentity": {
       "invert": true
