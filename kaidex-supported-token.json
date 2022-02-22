@@ -172,5 +172,11 @@
         "id": "0x72de7ca363d38d42d98be0b73607e7248c1e978c",
         "name": "SSC",
         "symbol": "SSC"
+    },
+    {
+        "decimals": "18",
+        "id": "0xc8e2747916bedcf91c17ab13f2e14e67f6abe0db",
+        "name": "ArkRivals",
+        "symbol": "ARKN"
     }
 ]

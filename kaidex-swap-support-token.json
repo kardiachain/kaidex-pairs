@@ -340,6 +340,14 @@
             "name": "SSC",
             "symbol": "SSC",
             "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/72De7cA363d38D42D98be0b73607e7248c1e978c.png"
+        },
+        {
+            "chainId": 1,
+            "decimals": 18,
+            "address": "0xc8e2747916bedcf91c17ab13f2e14e67f6abe0db",
+            "name": "ArkRivals",
+            "symbol": "ARKN",
+            "logoURI": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/c8E2747916BeDcf91C17AB13F2E14E67f6aBe0Db.png"
         }
     ]
 }
